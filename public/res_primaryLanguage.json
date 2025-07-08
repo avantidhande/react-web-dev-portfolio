@@ -1,0 +1,105 @@
+{
+    "basic_info": {
+      "description_header": "Hi",
+      "description": "👋 I'm Avanti Dhande. I am a Web Developer with 8 Months of experience in building responsive and user friendly web interfaces using ReactJS. Also proficient in backend setup, delivering robust and efficient solutions. Adopt at creating clean, maintainable code and collaborating in dynamic development environments. Thank you 💜",
+      "section_name": {
+        "about": "About me",
+        "projects": "Projects",
+        "skills": "Skills",
+        "experience": "Experience"
+      }
+    },
+    "projects": [
+      {
+        "title": "Ecoluxury",
+        "startDate": "2024",
+        "description": "Developed a fully responsive live e-commerce website for eco-conscious products with features like dynamic product views, cart management, and seamless checkout. Integrated both Cash on Delivery (COD) and PhonePe online payment options for a smooth user experience across all devices.",
+        "images": [
+          "images/portfolio/ecoluxury/p1.jpg",
+          "images/portfolio/exoluxury/p2.jpg"
+        ],
+        "url": "https://ecoluxury.in/",
+        "technologies": [
+          {
+            "class": "devicon-react-original",
+            "name": "ReactJs"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          },
+          {
+            "class": "devicon-php-plain",
+            "name": "Php"
+          }
+        ]
+      },
+      {
+        "title": "Weather-App",
+        "startDate": "2024",
+        "description": "Developed a responsive weather application using HTML, CSS, and JavaScript, with a strong focus on clean UI and mobile-friendly design. Integrated real-time weather APIs to dynamically fetch and display current weather data based on user input. Prioritized seamless user experience through intuitive layout and responsive styling across devices.",
+        "images": [
+          "images/portfolio/weather/p1.jpg",
+          "images/portfolio/weather/p2.jpg"
+        ],
+        "url": "https://weather-app-by-av.netlify.app/",
+        "technologies": [
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML"
+          },
+          {
+            "class":"devicon-css3-plain",
+            "name":"CSS"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          }
+        ]
+      },
+      {
+        "title": "Jarvis – AI Assistant",
+        "startDate": "2024",
+        "description": "A voice-controlled AI assistant built using modern web technologies that can respond to various voice commands like telling the time, opening websites, providing weather updates, and more. This project showcases integration of speech recognition and synthesis in a sleek, responsive UI.",
+        "images": [
+          "images/portfolio/jarvis/p1.jpg",
+          "images/portfolio/jarvis/p2.jpg"
+        ],
+        "url": "https://jarvis-by-av.netlify.app/",
+        "technologies": [
+         {
+            "class": "devicon-html5-plain",
+            "name": "HTML"
+          },
+          {
+            "class":"devicon-css3-plain",
+            "name":"CSS"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          }
+        ]
+      }
+    ],
+    "experience": [
+      {
+        "company": "Sapalogy",
+        "title": "Web Developer",
+        "years": "06.2024 - 02.2025",
+        "mainTech": [
+          "ReactJs 8/9/10"
+        ],
+        "technologies": [
+          "HTML",
+          "CSS",
+          "JavaScript",
+          "Bootstrap",
+          "React",
+          "Php",
+          "MySQL"
+        ]
+      }
+    ]
+  }
