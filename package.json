@@ -1,5 +1,6 @@
 {
   "name": "react-web-dev-portfolio",
+    "homepage": "https://avantidhande.github.io/react-web-dev-portfolio/",  
   "version": "0.1.0",
   "private": true,
   "dependencies": {
